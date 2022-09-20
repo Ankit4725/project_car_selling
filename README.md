@@ -3,6 +3,8 @@
 Technologies used 👇
 
 👉 Frontend :-  HTML , CSS , JS
+👉 Databases:- Mysql
+👉 Backend:-  python
 
 
 Features of this site 
