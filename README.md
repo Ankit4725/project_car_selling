@@ -23,6 +23,4 @@ Popular vehicles feature of site
   
  You can click on these dots to view different popular vehicles
  
-
-![Screenshot (1426)](https://user-images.githubusercontent.com/100211110![Screenshot (1430)](https://user-images.githubusercontent.com/100211110/191237829-35442bb8-f9aa-49a4-8407-0bb913d20514.png)
-/191232603-3f0d74c7-a819-4ad8-b2d6-7d975915e759.png)
+ ![Screenshot (1430)](https://user-images.githubusercontent.com/100211110/191238039-3bb6596d-6679-4b80-b6c3-b7597cad6867.png)
