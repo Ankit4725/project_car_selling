@@ -1,11 +1,5 @@
 # This is a project_car_selling site 
 
-Technologies used 👇
-
-👉 Frontend :-  HTML , CSS , JS
-
-
-
 Features of this site 
 
 👉  provide services 👇
